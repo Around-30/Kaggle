@@ -20,9 +20,9 @@ Kaggle Competitions studies
 * [arXiv](https://www.kaggle.com/Cornell-University/arxiv)
 
 ## 3. Articles
-* [TKDE](https://www.computer.org/csdl/journal/tk) (IEEE Transactions on Knowledge and Data Engineering)
-* [Nature Communications](https://www.nature.com/ncomms/) (Nature Communications)
-* [Physical Review E](https://journals.aps.org/pre/) (Physical Review E)
+* [TCN1](https://towardsdatascience.com/temporal-convolutional-networks-the-next-revolution-for-time-series-8990af826567) (Towards Data Science article for TCN)
+* [TCN2](https://github.com/philipperemy/keras-tcn) (Keras TCN implementation)
+* [TCN paper](https://arxiv.org/pdf/1608.08242) (arXiv Temporal Convolutional Network paper)
 
 ## 4. Books
 * [캐글 가이드](http://www.yes24.com/Product/Goods/90964592)
