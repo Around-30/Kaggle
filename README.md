@@ -10,6 +10,10 @@ Kaggle Competitions studies
 
 ## 1. Competitions
 * [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+  ### 1-1. Kernels
+  * [EDA](https://www.kaggle.com/noeasywayout/eda-fe-lgbm-model)
+  * [Top 11 solution](https://www.kaggle.com/szhou42/predict-future-sales-top-11-solution)
+  * [DL solution](https://www.kaggle.com/dimitreoliveira/deep-learning-for-time-series-forecasting)
 
 
 ## 2. Datasets
