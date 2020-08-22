@@ -9,7 +9,8 @@ Kaggle Competitions studies
 4. [Books](https://github.com/Around-30/Kaggle/#4-books)
 
 ## 1. Competitions
-* [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+* [Predict Future Sales(kaggle)](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+* [Predict Future Sales(repos)](https://github.com/Around-30/Kaggle/Competitions/Predict Future Sales)
   ### 1-1. Kernels
   * [EDA](https://www.kaggle.com/noeasywayout/eda-fe-lgbm-model)
   * [Top 11 solution](https://www.kaggle.com/szhou42/predict-future-sales-top-11-solution)
