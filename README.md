@@ -29,4 +29,9 @@ Kaggle Competitions studies
 * [Approaching (ALMOST) Any Machine Learning Problem](https://www.amazon.com/Approaching-Almost-Machine-Learning-Problem-ebook/dp/B089P13QHT)
 
 
+## 5. Team Members
+* Kim Yong Dam
+* Lee Jong Hyeok
+* Kim Jae Young
+
 
