@@ -15,8 +15,8 @@
 5. date_block_num, year, month는 그대로 넣기
 
 6.
-item_price는 globally average해서 넣기<br>
-item 가격을 정규화해서 해당 item이 해당 상점에서 얼마나 차이가 있는지를 (-1, 1)의 값으로 나타냄. (item price locality)
+- item_price는 globally average해서 넣기<br>
+- item 가격을 정규화해서 해당 item이 해당 상점에서 얼마나 차이가 있는지를 (-1, 1)의 값으로 나타냄. (item price locality)
 
 7. city는 필요없을듯. (앞에서 다룬 다른 feature들이 city 관련 정보를 포함하고 있음)
 
