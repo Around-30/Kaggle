@@ -2,6 +2,30 @@
 
 ## 2020-08-30 요약
 
+### Feature Engineering
+
+1. shop_id는 그냥 60차원으로 넣어보기
+
+2. shop importance는 전체 판매량과 판매액을 normalize해서 넣기
+
+3. item_category는 category별 판매량 normalize해서 넣기
+
+4. item importance도 전체 판매량 normailze해서 넣기
+
+5. date_block_num, year, month는 그대로 넣기
+
+6.
+item_price는 globally average해서 넣기<br>
+item 가격을 정규화해서 해당 item이 해당 상점에서 얼마나 차이가 있는지를 (-1, 1)의 값으로 나타냄. (item price locality)
+
+7. city는 필요없을듯. (앞에서 다룬 다른 feature들이 city 관련 정보를 포함하고 있음)
+
+8. Oct. 2015랑 Nov. 2013/2014의 item_cnt 3개 넣기.
+
+9. item_name에 대한 빈도분석을 시행한 후, 몇 개의 top feature를 사용할지 선택해서 CountVectorizer를 사용.
+
+10. skip.
+
 ## 2020-08-22 요약
 
 ### Feature Engineering
