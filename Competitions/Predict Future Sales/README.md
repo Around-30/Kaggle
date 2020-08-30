@@ -1,5 +1,7 @@
 # Predict Future Sales
 
+## 2020-08-30 요약
+
 ## 2020-08-22 요약
 
 ### Feature Engineering
