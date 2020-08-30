@@ -1,0 +1,8 @@
+Customer	Address	Amount
+Kim Yongdam	AS816	$3000
+- * 15
+Billing List
+Package Number	Item	Amount	
+P00000011	airPod Pro	$350
+P00000011	iPhone 11 Pro, MG, 256GB	$1400
+P00000011	Macbook Air, RG, i5/16GB/512GB	$1250
