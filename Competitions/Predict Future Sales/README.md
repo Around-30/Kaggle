@@ -2,12 +2,12 @@
 
 ## 2020-09-06 요약
 
-**train 데이터 생성에서 고칠것들 고치기. **
+**train 데이터 생성에서 고칠것들 고치기.**
 
 - 6번 globally average를 item_id별로 해야함.
 - 8번 월별 평균으로 item_cnt feature를 바꿔야함.
 
-**train에서 완성된 데이터를 기준으로 test 데이터를 inference 가능한 형태로 바꿔야함. **
+**train에서 완성된 데이터를 기준으로 test 데이터를 inference 가능한 형태로 바꿔야함.**
 
 ## 2020-08-30 요약
 
